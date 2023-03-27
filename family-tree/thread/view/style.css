@@ -1,0 +1,7 @@
+#Iniciar{
+    -fx-background-color: rgb(255, 0, 204);
+    -fx-font: 14pt "Arial";
+    -fx-font-weight: bold;
+    -fx-border-width: 5px;
+    -fx-border-color: rgb(255,255,255);
+}
