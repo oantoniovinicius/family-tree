@@ -12,5 +12,5 @@ Aplicação realizada para fins educacionais no estudo de criação de processos
 
 ## Autores
 
-- [@oantoniovinicius](https://www.github.com/octokatherine)
+- [@oantoniovinicius](https://www.github.com/oantoniovinicius)
 
